@@ -1,0 +1,9 @@
+* s-xml
+
+Simple Common Lisp XML Parser
+
+|---------+----------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/s-xml/s-xml.git |
+| commit  | 194ccea                                            |
+| systems | s-xml                                              |
+|---------+----------------------------------------------------|
